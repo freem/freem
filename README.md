@@ -55,5 +55,5 @@ too many projects, not enough time
   ## StepMania
   These are only provided as archives, and will not be updated.
   - [ultralight](https://github.com/freem/ultralight) - StepMania 5.0 theme
-  - [SMOnline v1](https://github.com/freem/SMOnline-v1) - Clone of (the original repository)[https://sourceforge.net/projects/smonline/]
+  - [SMOnline v1](https://github.com/freem/SMOnline-v1) - Clone of [the original repository](https://sourceforge.net/projects/smonline/)
 </details>
